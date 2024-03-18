@@ -1,7 +1,7 @@
 # cacul
 ## 실행설명
 ```
-nodemon app
+ nodemon app
 ```
 
 ### 사용기술
